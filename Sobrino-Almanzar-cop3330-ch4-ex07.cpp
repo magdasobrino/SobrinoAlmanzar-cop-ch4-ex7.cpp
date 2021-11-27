@@ -84,4 +84,5 @@ int main()
                         << " is " << result << '\n';
                 std::cout << "Try another operation: ";
         }
+        return 0;
 }
